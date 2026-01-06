@@ -492,9 +492,7 @@ _______________________________________
 # Nese 10 (BETA) 
 Start date: April 10, 2024 
 
-End of mainstream support on BETA: October 20, 2025
-
-End of BETA support: March 29, 2026
+End of BETA support: December 9, 2025
 
 _______________________________________
 
@@ -513,9 +511,7 @@ _______________________________________
 # Nese Server 2025 (BETA) 
 Start date: April 27, 2024
 
-End of mainstream support on BETA: October 31, 2025
-
-End of BETA support: March 30, 2026
+End of BETA support: December 9, 2025
 
 _______________________________________
 
