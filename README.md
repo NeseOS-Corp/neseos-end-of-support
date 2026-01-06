@@ -508,6 +508,8 @@ End of extended support: January 9, 2035
 
 End of Extended Security Updates (ESU) for non licensed users: January 14, 2040
 
+_______________________________________
+
 # Nese Server 2025 (BETA) 
 Start date: April 27, 2024
 
@@ -523,3 +525,13 @@ Start date: January 3, 2025
 End of support: January 1, 2026
 
 _______________________________________
+
+# Nese Server 2025
+
+Start date: December 10, 2025
+
+End of mainstream support: October 14, 2032
+
+End of extended support: January 9, 2040
+
+End of ESU for non licensed users: January 14, 2042
