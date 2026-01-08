@@ -489,6 +489,27 @@ End of support: February 22, 2025
 
 _______________________________________
 
+# Nese 9, version 26K2 
+Start date: October 15, 2025
+
+End of support: August 14, 2026
+
+_______________________________________
+
+# Nese 9, version 26K3 
+Start date: January 7, 2026
+
+End of support: January 4, 2027
+
+_______________________________________
+
+# Nese 9, version 26K4 
+Start date: January 8, 2026
+
+End of support: January 5, 2027
+
+_______________________________________
+
 # Nese 10 (BETA) 
 Start date: April 10, 2024 
 
