@@ -115,10 +115,10 @@ End of support: May 4, 2025
 
 _______________________________________
 
-# Nese Vista IoT Ultimate LTSC 2025
+# Nese Vista IoT Ultimate LTSC 2026
 Start date: soon
 
-Mainstream ends: May 13, 2026
+Mainstream ends: October 13, 2026
 
 Extended ends: June 13, 2027
 
@@ -128,16 +128,23 @@ Extended Security Updates (ESU) for licensed ends: June 13, 2030
 
 _______________________________________
 
-# Nese Vista IoT Business LTSC 2025
+# Nese Vista IoT Business LTSC 2026
 Start date: soon
 
-Mainstream ends: May 13, 2026
+Mainstream ends: October 13, 2026
 
 Extended ends: June 13, 2027
 
 Extended Security Updates (ESU) for non licensed ends: July 14, 2028 
 
 Extended Security Updates (ESU) for licensed ends: June 13, 2030
+
+_______________________________________
+
+# Nese Server 2008 (26W2)
+Start date: January 14, 2026
+
+End of support: January 12, 2027
 
 _______________________________________
 
@@ -431,6 +438,7 @@ End date: December 10, 2024
 _______________________________________
 
 # Nese Server 2008 R2 (SP1)
+
 Start date: October 2, 2024
 
 End date: January 14, 2028
