@@ -141,7 +141,8 @@ Extended Security Updates (ESU) for licensed ends: June 13, 2030
 
 _______________________________________
 
-# Nese Server 2008 (26W2)
+# Nese Server 2008 (26U2)
+
 Start date: January 14, 2026
 
 End of support: January 12, 2027
