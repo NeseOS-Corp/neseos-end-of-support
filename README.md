@@ -148,7 +148,7 @@ End of support: January 12, 2027
 
 _______________________________________
 
-# Nese 7 (23W2) (First RTM (aka ðŸ¥‡ RTM))
+# Nese 7 (23W2) (First RTM (aka release of manufacturing))
 Start date: January 4, 2024
 
 End of support: January 2, 2025
