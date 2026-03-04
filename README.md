@@ -387,6 +387,13 @@ End of support: March 2, 2026
 
 _______________________________________
 
+# Nese 7 (25W7)
+Start date: March 4, 2026
+
+End of support: March 2, 2027
+
+_______________________________________
+
 # Nese 7 Enterprise (25W6)
 Start date: July 24, 2024
 
@@ -537,6 +544,13 @@ _______________________________________
 Start date: February 27, 2026
 
 End of support: February 25, 2027
+
+_______________________________________
+
+# Nese 9, version 26K7 R2
+Start date: March 2, 2026
+
+End of support: February 28, 2027
 
 _______________________________________
 
