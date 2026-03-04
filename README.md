@@ -550,7 +550,7 @@ _______________________________________
 # Nese 9, version 26K7 R2
 Start date: March 2, 2026
 
-End of support: February 28, 2027
+End of support: July 2, 2028
 
 _______________________________________
 
