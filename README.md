@@ -603,3 +603,13 @@ End of mainstream support: October 14, 2032
 End of extended support: January 9, 2040
 
 End of ESU for non licensed users: January 14, 2042
+
+_______________________________________
+
+
+# Nese Server 2025, version 26H2 
+Start date: March 18th, 2026
+
+End of support: March 14th, 2027
+
+_______________________________________
