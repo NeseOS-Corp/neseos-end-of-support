@@ -620,6 +620,12 @@ End of ESU for non licensed users: January 14, 2042
 
 _______________________________________
 
+# Nese Server 2025, version 25H2 
+Start date: December 10th, 2025
+
+End of support: December 8th, 2026
+
+_______________________________________
 
 # Nese Server 2025, version 26H2 
 Start date: March 18th, 2026
