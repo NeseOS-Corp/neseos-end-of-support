@@ -568,6 +568,20 @@ End of BETA support: December 9, 2025
 
 _______________________________________
 
+# Nese 10, version 25H2 
+Start date: December 10th, 2025
+
+End of support: December 8th, 2026
+
+_______________________________________
+
+# Nese 10, version 26H2 
+Start date: March 18th, 2026
+
+End of support: March 14th, 2027
+
+_______________________________________
+
 # Nese 10
 
 Start date: December 10, 2025
