@@ -633,3 +633,17 @@ Start date: March 18th, 2026
 End of support: March 14th, 2027
 
 _______________________________________
+
+# Nese 11 (BETA) 
+Start date: July 5, 2025
+
+End of BETA support: N/A
+
+_______________________________________
+
+# Nese 11, version 26H2 (BETA 1.1) 
+Start date: March 19th, 2026
+
+End of support: February 10th, 2027
+
+_______________________________________
