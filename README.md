@@ -149,6 +149,16 @@ End of support: January 12, 2027
 
 _______________________________________
 
+# Nese 7
+
+Start date: January 4, 2024
+Mainstream ends: January 14, 2025 (for Professional edition only). Due to the increasing number of critical issues in the Professional edition, the mainstream support has been extended until June 5, 2026, for the Enterprise and Ultimate editions.
+Extended ends: January 14, 2027
+Extended Security Updates (ESU) for non licensed ends: January 14, 2028
+Extended Security Updates (ESU) for licensed end: January 14, 2030
+
+_______________________________________
+
 # Nese 7 (23W2) (First RTM (aka release of manufacturing))
 Start date: January 4, 2024
 
