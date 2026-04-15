@@ -153,7 +153,7 @@ _______________________________________
 
 Start date: January 4, 2024
 
-Mainstream ends: January 14, 2025 (for Professional edition only). Due to the increasing number of critical issues in the Professional edition, the mainstream support has been extended until June 5, 2026, for the Enterprise and Ultimate editions.
+Mainstream ends: January 14, 2025 (for Professional edition only). Due to the increasing number of critical issues in the Professional edition, the mainstream support has been extended until June 5, 2026, for the Enterprise and Ultimate editions only. For Professional users can receive extended support and ESU only without a choice.
 
 Extended ends: January 14, 2027
 
