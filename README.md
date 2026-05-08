@@ -437,9 +437,9 @@ End of support: April 19, 2027
 _______________________________________
 
 # Nese 7 Ultimate (26W1)
-Start date: April 22, 2026
+Start date: April 23, 2026
 
-End of support: April 20, 2027
+End of support: April 21, 2027
 
 _______________________________________
 
