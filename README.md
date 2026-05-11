@@ -101,6 +101,20 @@ End of support: July 8, 2024 (Ended)
 
 _______________________________________
 
+# Nese Vista
+
+Start date: August 13, 2023
+
+Mainstream ends: June 13, 2025 (extended May 13, 2025 to June 13, 2025)
+
+Extended ends: August 31, 2026
+
+Extended Security Updates (ESU) for non licensed ends: June 13, 2027
+
+Extended Security Updates (ESU) for licensed end: June 13, 2030
+
+_______________________________________
+
 # Nese Vista (24U1) (x86)
 Start date: April 22, 2024
 
