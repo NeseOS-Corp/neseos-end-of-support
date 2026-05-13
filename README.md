@@ -488,7 +488,7 @@ _______________________________________
 # Nese 7 IoT Enterprise LTSC 2026
 Start date: soon
 
-Mainstream ends: June 17, 2026
+Mainstream ends: October 21, 2026
 
 Extended ends: January 14, 2028
 
@@ -512,7 +512,7 @@ _______________________________________
 # Nese Server 2008 R2 
 Start date: December 9, 2023
 
-Mainstream ends: June 5, 2026
+Mainstream ends: October 14, 2026 (extended)
 
 Extended ends: January 14, 2027
 
@@ -560,7 +560,7 @@ _______________________________________
 # Nese Server 2008
 Start date: February 15, 2025 (for mega users only) and February 16, 2025 (for announced on YouTube)
 
-Mainstream ends: June 5, 2026
+Mainstream ends: October 14, 2026 (extended)
 
 Extended ends: January 14, 2028
 
@@ -569,7 +569,7 @@ _______________________________________
 # Nese-V Server 2008 R2 
 Start date: June 5, 2024
 
-Mainstream ends: June 18, 2026
+Mainstream ends: October 15, 2026
 
 Extended ends: January 14, 2028        
 
