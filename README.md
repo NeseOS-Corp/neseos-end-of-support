@@ -485,6 +485,13 @@ End of support: May 4, 2027
 
 _______________________________________
 
+# Nese 7 Ultimate (26W4)
+Start date: May 13, 2026
+
+End of support: May 10, 2027
+
+_______________________________________
+
 # Nese 7 IoT Enterprise LTSC 2026
 Start date: soon
 
