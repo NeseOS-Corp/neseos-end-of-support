@@ -571,6 +571,13 @@ End of support: October 31, 2025
 
 _______________________________________
 
+# Nese Server 2008 R2 (26W5)
+Start date: May 18, 2026
+
+End of support: May 14, 2027
+
+_______________________________________
+
 # Nese Server 2008
 Start date: February 15, 2025 (for mega users only) and February 16, 2025 (for announced on YouTube)
 
@@ -749,8 +756,8 @@ _______________________________________
 
 # WUAPP (2.0) 
 
-Start date: soon
+Start date: May 18, 2026
 
-End of support: January 14, 2027
+End of support: October 14, 2026 (due to bugs)
 
 _______________________________________
