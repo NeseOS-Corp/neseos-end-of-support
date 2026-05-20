@@ -499,6 +499,13 @@ End of support: May 11, 2027
 
 _______________________________________
 
+# Nese 7 Ultimate (26W5)
+Start date: May 20, 2026
+
+End of support: May 18, 2027
+
+_______________________________________
+
 # Nese 7 IoT Enterprise LTSC 2026
 Start date: soon
 
@@ -760,4 +767,11 @@ Start date: May 18, 2026
 
 End of support: October 14, 2026 (due to bugs)
 
+_______________________________________
+
+# WUAPP (3.0) 
+
+Start date: May 20, 2026
+
+End of support: November 15, 2034
 _______________________________________
