@@ -781,4 +781,12 @@ _______________________________________
 Start date: May 20, 2026
 
 End of support: November 15, 2026 (due to newly discovered bug)
+
+_______________________________________
+
+# WUAPP (4.0) 
+
+Start date: May 20, 2026
+
+End of support: N/A (not tested, yet)
 _______________________________________
