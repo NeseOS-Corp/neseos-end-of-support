@@ -624,6 +624,19 @@ End of support: May 9, 2025
 
 _______________________________________
 
+# Nese Storage Server 2012 
+Start Date: October 18, 2025
+
+Mainstream ends: May 27, 2027
+
+Extended ends: November 13, 2030
+
+Extended Security Updates (ESU) for non licensed ends: May 27, 2032
+
+Extended Security Updates (ESU) for licensed ends: January 11, 2034
+
+_______________________________________
+
 # Nese Storage Server 2012 (26K4)
 Start date: June 8, 2026
 
