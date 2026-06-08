@@ -624,6 +624,13 @@ End of support: May 9, 2025
 
 _______________________________________
 
+# Nese Storage Server 2012 (26K4)
+Start date: June 8, 2026
+
+End of support: June 3, 2027
+
+_______________________________________
+
 # Nese Server 2012 R2 
 Start date: June 3, 2026
 
