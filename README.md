@@ -171,7 +171,7 @@ Mainstream ends: January 14, 2025 (for Professional edition only). Due to the in
 
 End of Service Pack 1 (SP1) support: October 14, 2026
 
-Extended ends: January 14, 2027
+Extended ends (Service Pack 2 only): January 14, 2027
 
 Extended Security Updates (ESU) for non licensed ends (Service Pack 2 only): January 14, 2028
 
