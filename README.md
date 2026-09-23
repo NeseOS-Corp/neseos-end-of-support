@@ -129,10 +129,32 @@ End of support: May 4, 2025
 
 _______________________________________
 
+# Nese Vista (27U3)
+Start date: August 31, 2026
+
+End of support: August 25, 2027
+
+_______________________________________
+
+# Nese Vista (27U4)
+Start date: September 1, 2026
+
+End of support: August 30, 2027
+
+_______________________________________
+
+
+# Nese Vista (27U4 R2)
+Start date: September 16, 2026
+
+End of support: September 15, 2027
+
+_______________________________________
+
 # Nese Vista IoT Ultimate LTSC 2026
 Start date: soon
 
-Mainstream ends: October 13, 2026
+Mainstream ends: November 11, 2026
 
 Extended ends: June 13, 2027
 
@@ -145,7 +167,7 @@ _______________________________________
 # Nese Vista IoT Business LTSC 2026
 Start date: soon
 
-Mainstream ends: October 13, 2026
+Mainstream ends: November 11, 2026
 
 Extended ends: June 13, 2027
 
